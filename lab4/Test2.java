@@ -11,3 +11,8 @@ public class Test2 {
 
     }
 }
+
+//output
+//PartTimeEmployee :12000.0
+//FullTimeEmployee Salary : 18750.0
+
