@@ -7,3 +7,8 @@ public class test {
         System.out.println("Distance:" + p1.distance(p2));
     }
 }
+
+//output
+//(2,3)
+//(5,7)
+//Distance: 5.0
