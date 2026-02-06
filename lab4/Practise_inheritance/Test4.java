@@ -29,3 +29,16 @@ public class Test4 {
         System.out.println("Filled: " + triangle.isFilled());
     }
 }
+
+//output
+// Enter side1: 10
+// Enter side2: 10
+// Enter side3: 10
+// Enter color: blue
+// Is the triangle filled? (true/false): true
+
+// Triangle sides: side1 = 10.0, side2 = 10.0, side3 = 10.0
+// Area: 43.30127018922193
+// Perimeter: 30.0
+// Color: blue
+// Filled: true
