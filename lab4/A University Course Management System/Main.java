@@ -7,3 +7,8 @@ public class Main {
         service.printFinalResult(course);
     }
 }
+
+//output
+// Course Code: CSE-2201
+// Credit: 3.0
+// Final Marks: 90.0
