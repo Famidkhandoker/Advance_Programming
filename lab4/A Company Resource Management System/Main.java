@@ -14,3 +14,9 @@ public class Main {
     }
 }
 
+//output
+// Total Pay: 25000.0
+// Total Pay: 47000.0
+// Total Staff: 2
+
+
