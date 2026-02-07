@@ -8,3 +8,6 @@ public class Main {
         payroll.generatePayroll(empRef);
     }
 }
+
+//output
+// Total Salary: 75000.0
