@@ -8,3 +8,12 @@ public class Main {
     }
 }
 
+//output
+// ---- Patient Details ----
+// Patient ID: 201
+// Patient Name: Ahmed Ali
+// ---- Assigned Doctor ----
+// Doctor ID: 101
+// Doctor Name: Dr. Rahman
+// Specialization: Cardiology
+
