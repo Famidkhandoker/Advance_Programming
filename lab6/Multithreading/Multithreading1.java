@@ -1,4 +1,4 @@
-
+//run method
 public class Multithreading1 {
     public static void main(String[] args) {
         DownloadTask t1 = new DownloadTask("File1");
@@ -17,7 +17,7 @@ public class Multithreading1 {
 
 
 
-
+//start method
 public class Multithreading1 {
     public static void main(String[] args) {
         DownloadTask t1 = new DownloadTask("File1");
